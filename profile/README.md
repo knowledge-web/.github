@@ -1,6 +1,6 @@
-## Hi there 👋
+## Welcome to The Knowledge Web 👋
 
-> The Knowledge Web provides an opportunity for users of all kinds and ages and interests to learn about how interactivity works. It offers the chance to experience history the way the players at the time did: full of surprise twists and turns, accidents, discoveries, friends and foes. Above all, the K-Web reveals how they never knew what was coming next. Just like you.
+The Knowledge Web provides an opportunity for users of all kinds and ages and interests to learn about how interactivity works. It offers the chance to experience history the way the players at the time did: full of surprise twists and turns, accidents, discoveries, friends and foes. Above all, the K-Web reveals how they never knew what was coming next. Just like you.
 
  – James Burke 
 
