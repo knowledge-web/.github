@@ -44,7 +44,7 @@ The Knowledge Web provides an opportunity for users of all kinds and ages and in
 
 Help me figure this out! Here follows a first draft.
 
-💬 Please comment (right in this document or 📨 [karl@passionismandatory.com](mailto:karl@passionismandatory.com)) something is unclear, missing, wrong, could be improved …or for any other reason!
+💬 Please comment or mail 📨 [karl@passionismandatory.com](mailto:karl@passionismandatory.com) if something is unclear, missing, wrong, could be improved ...or for any other reason!
 
 <details><summary><h2>💻 Interface elements</h2></summary>
 
@@ -171,10 +171,7 @@ PS. The Brain seems to have a sort of bread crumb only on desktop (not available
 
 <details><summary><h2>🌐 Spheres (time construct)</h2></summary>
 
-<aside>
-📢 **Please help us with this!** Ask [Karl](https://www.notion.so/Animal-cell-earth-scale-comparison-98d25ab2c3764b74808d7cdf67dcf139?pvs=21) for sample data & details 🙃
-
-</aside>
+> 📢 **Please help us with this!** Ask [Karl](mailto:karl@passionismandatory.com) for sample data & details 🙃
 
 Century spheres (+ outer “Gateway layer”): a potentially delightful (optional) way to explore & enter into the Web. Perhaps described best by Burke in this [old video](https://youtu.be/Ei8aATwB5Q4).
 
