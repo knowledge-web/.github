@@ -48,15 +48,15 @@ Help me figure this out! Here follows a first draft.
 
 <details><summary><h2>💻 Interface elements</h2></summary>
 
-![From the recent experiment “graphviz1”, has all core elements.](img/Untitled.png)
+![From the recent experiment “graphviz1”, has all core elements.](/profile/img/Untitled.png)
 
 From the recent experiment “graphviz1”, has all core elements.
 
-![From the recent experiment “sketch”, perhaps more of the look we want but it lacks one element: the timeline.](img/Untitled%201.png)
+![From the recent experiment “sketch”, perhaps more of the look we want but it lacks one element: the timeline.](/profile/img/Untitled%201.png)
 
 From the recent experiment “sketch”, perhaps more of the look we want but it lacks one element: the timeline.
 
-![A prototype from the early 2000s (shown in [this video](https://youtu.be/_gtQ5LDx_H0)).](img/Untitled%202.png)
+![A prototype from the early 2000s (shown in [this video](https://youtu.be/_gtQ5LDx_H0)).](/profile/img/Untitled%202.png)
 
 A prototype from the early 2000s (shown in [this video](https://youtu.be/_gtQ5LDx_H0)).
 
@@ -72,23 +72,23 @@ Interaction with any of the elements is reflected in the others (instantly / on 
 
 - 1. Chosen node & neighbors (names) + links.
     
-    ![From [The Brain](https://webbrain.com/brainpage/brain/C6015FA0-82BF-F1FA-9D05-0EA9FD7F845E#-2209).](img/Untitled%203.png)
+    ![From [The Brain](https://webbrain.com/brainpage/brain/C6015FA0-82BF-F1FA-9D05-0EA9FD7F845E#-2209).](/profile/img/Untitled%203.png)
     
     From [The Brain](https://webbrain.com/brainpage/brain/C6015FA0-82BF-F1FA-9D05-0EA9FD7F845E#-2209).
     
     - Another example
         
-        ![From one of the recent experiments.](img/Untitled%204.png)
+        ![From one of the recent experiments.](/profile/img/Untitled%204.png)
         
         From one of the recent experiments.
         
 - 2. Link descriptions (always or when hovered / neighbor hovered).
     
-    ![From The Brain.](img/Untitled%205.png)
+    ![From The Brain.](/profile/img/Untitled%205.png)
     
     From The Brain.
     
-    ![From the experiment “graphviz1”.](img/Untitled%206.png)
+    ![From the experiment “graphviz1”.](/profile/img/Untitled%206.png)
     
     From the experiment “graphviz1”.
     
@@ -106,7 +106,7 @@ Interaction with any of the elements is reflected in the others (instantly / on 
 
 <details><summary><h2>⏳ Timeline</h2></summary>
 
-![From [https://observablehq.com/@liuyao12/timeline](https://observablehq.com/@liuyao12/timeline) — not perfect but might be a start?](img/Untitled%207.png)
+![From [https://observablehq.com/@liuyao12/timeline](https://observablehq.com/@liuyao12/timeline) — not perfect but might be a start?](/profile/img/Untitled%207.png)
 
 From [https://observablehq.com/@liuyao12/timeline](https://observablehq.com/@liuyao12/timeline) — not perfect but might be a start?
 
@@ -124,11 +124,11 @@ From [https://observablehq.com/@liuyao12/timeline](https://observablehq.com/@liu
 
 Generally a dim globe in the top left corner, unless interacted with (click to “activate” & enlarge).
 
-![Activated globe in “sketch” experiment using CesiumJS.](img/Untitled%208.png)
+![Activated globe in “sketch” experiment using CesiumJS.](/profile/img/Untitled%208.png)
 
 Activated globe in “sketch” experiment using CesiumJS.
 
-![(Eurocentric) Google Earth example.](img/Untitled%209.png)
+![(Eurocentric) Google Earth example.](/profile/img/Untitled%209.png)
 
 (Eurocentric) Google Earth example.
 
@@ -144,7 +144,7 @@ Biography / information with text, images, links (to other nodes), etc …much l
 
 - Click / Hover (internal) link; preview, same as *Graph*(, *Timeline* & *Map*).
     
-    ![From The Brain.](img/Untitled%2010.png)
+    ![From The Brain.](/profile/img/Untitled%2010.png)
     
     From The Brain.
     
@@ -157,11 +157,11 @@ Biography / information with text, images, links (to other nodes), etc …much l
 
 **Journeys / Mystery Tours:** Stored Trails that can be followed along.
 
-![Textual representation.](img/Untitled%2011.png)
+![Textual representation.](/profile/img/Untitled%2011.png)
 
 Textual representation.
 
-![Graph representation example (from experiment “3d-graph-present”).](img/Untitled%2012.png)
+![Graph representation example (from experiment “3d-graph-present”).](/profile/img/Untitled%2012.png)
 
 Graph representation example (from experiment “3d-graph-present”).
 
@@ -178,17 +178,17 @@ PS. The Brain seems to have a sort of bread crumb only on desktop (not available
 
 Century spheres (+ outer “Gateway layer”): a potentially delightful (optional) way to explore & enter into the Web. Perhaps described best by Burke in this [old video](https://youtu.be/Ei8aATwB5Q4).
 
-![From the video.](img/nse-1928341916485975160-12767.jpg)
+![From the video.](/profile/img/nse-1928341916485975160-12767.jpg)
 
 From the video.
 
 Some experiments:
 
-![Incomplete & “fake” but might get the idea across…](img/2023-05-14-spheres.png)
+![Incomplete & “fake” but might get the idea across…](/profile/img/2023-05-14-spheres.png)
 
 Incomplete & “fake” but might get the idea across…
 
-![Slightly less “fake” (actually a force directed graph) but still not real (a few more connections and it collapses).](img/2023-05-23-spheres.png)
+![Slightly less “fake” (actually a force directed graph) but still not real (a few more connections and it collapses).](/profile/img/2023-05-23-spheres.png)
 
 Slightly less “fake” (actually a force directed graph) but still not real (a few more connections and it collapses).
 
