@@ -233,5 +233,5 @@ From a (2004?) design document.
 ## 🤲 Contribute
 
 - Checkout [GitHub](https://github.com/knowledge-web/kweb-ui).
-- Contact 💌 [karl@passionismandatory.com](mailto:karl@passionismandatory.com) (Karl Svartholm) & join Discord.
+- Contact 💌 [karl@passionismandatory.com](mailto:karl@passionismandatory.com) (Karl Svartholm) & join Discord: https://discord.com/invite/7meDH4RB
 - Coding not your thing? Apply to be a content curator: 💌 [patmck13@gmail.com](https://www.notion.so/2021-09-13-Trying-something-d45a7629595f45c6b26400d1d9f06ebc?pvs=21) (Patrick McKercher).
